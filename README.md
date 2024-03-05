@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 <h3>DanielCGH/DanielCGH</h3>
 <h6>I'm currently learning Python and Java.</h6>
-<img src = "https://img.shields.io/badge/" </a>
+<img src = "https://img.shields.io/badge/Test-github-blue"></a>
+
+
 
 
 
